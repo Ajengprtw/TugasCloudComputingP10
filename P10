@@ -1,0 +1,4 @@
+<php
+echo "<h1> Hallo, I'm Ajeng!</h1>";
+echo "<p>Build and deployed automatically via GitHub Actions.</p>";
+echo "<p>Image source: dockerhub_ajeng/php-demo:latest</p>";
